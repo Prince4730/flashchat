@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/ios/Flutter/Flutter.framework/Headers/Flutter.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FLTCloudFirestorePlugin.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Modules/module.modulemap \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/UserAgent.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/cloud_firestore-umbrella.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Headers/FLTFirebaseAuthPlugin.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Modules/module.modulemap \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Headers/UserAgent.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/firebase_auth/firebase_auth.framework/Headers/firebase_auth-umbrella.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Headers/FLTFirebaseCorePlugin.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Modules/module.modulemap \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Headers/UserAgent.h \
+  /Users/praveen/AndroidStudioProjects/flash-chat-flutter/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Headers/firebase_core-umbrella.h

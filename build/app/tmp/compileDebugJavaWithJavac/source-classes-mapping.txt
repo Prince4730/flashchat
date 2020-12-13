@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+co/appbrewery/flash_chat/MainActivity.java
+ co.appbrewery.flash_chat.MainActivity
+co/appbrewery/flash_chat/BuildConfig.java
+ co.appbrewery.flash_chat.BuildConfig

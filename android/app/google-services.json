@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112418977298",
+    "firebase_url": "https://flash-chat-bcbcf.firebaseio.com",
+    "project_id": "flash-chat-bcbcf",
+    "storage_bucket": "flash-chat-bcbcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112418977298:android:dee4bda12ab1d4fa588acb",
+        "android_client_info": {
+          "package_name": "co.princekumar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112418977298-vp2dsrpar4r96pgetgh02f96kru3pabm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAxT1tNJt4XmwNKEqNmJopKOgqtF7TB-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112418977298-vp2dsrpar4r96pgetgh02f96kru3pabm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
